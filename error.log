@@ -1,0 +1,49 @@
+[2023-03-23T14:54:42.424] [ERROR] error - Error: ReferenceError: usernam is not defined
+[2023-03-24T14:56:35.224] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T14:56:35.225] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T14:58:32.407] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T14:58:32.408] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:00:39.869] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:00:39.870] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:03:47.334] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:03:47.335] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:03:58.570] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:03:58.571] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:04:04.058] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:04:04.059] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:08:46.332] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:08:46.333] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:12:13.699] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:12:13.701] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:13:36.724] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:13:36.726] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:14:15.452] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:14:15.453] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:15:04.130] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:15:04.131] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:16:54.920] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:16:54.921] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:17:58.573] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:17:58.574] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:18:12.251] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "12" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:12 de la base de datos
+[2023-03-24T15:18:12.252] [ERROR] error - Producto id: 12 no encontrado
+[2023-03-24T15:18:44.912] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:18:44.912] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:19:34.594] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:19:34.595] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:19:42.613] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:19:42.614] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-24T15:21:10.991] [ERROR] error - Error: CastError: Cast to ObjectId failed for value "NaN" (type number) at path "_id" for model "Product" al intentar recuperar el producto id:NaN de la base de datos
+[2023-03-24T15:21:10.992] [ERROR] error - Producto id: NaN no encontrado
+[2023-03-27T12:18:55.964] [ERROR] error - Error: ReferenceError: cart is not defined
+[2023-03-27T12:19:20.151] [ERROR] error - Error: ReferenceError: cart is not defined
+[2023-03-27T12:20:27.664] [ERROR] error - Error: ReferenceError: cart is not defined
+[2023-03-27T12:29:42.828] [ERROR] error - Error: TypeError: Assignment to constant variable.
+[2023-03-27T12:32:58.317] [ERROR] error - Error: TypeError: Assignment to constant variable.
+[2023-03-27T12:44:57.953] [ERROR] error - Error: ReferenceError: isInCart is not defined
+[2023-03-27T13:09:15.238] [ERROR] error - Error: TypeError: Cannot read properties of undefined (reading 'cart')
+[2023-03-27T13:09:24.417] [ERROR] error - Error: TypeError: Cannot read properties of undefined (reading 'cart')
+[2023-03-29T12:30:20.489] [ERROR] error - Se ha produciodo error ValidationError: photo: Path `photo` is required. al intentar agregar un usuario a la base de datos
+[2023-03-29T12:33:18.899] [ERROR] error - Se ha produciodo error ValidationError: photo: Path `photo` is required. al intentar agregar un usuario a la base de datos
+[2023-03-29T12:38:08.879] [ERROR] error - Se ha produciodo error ValidationError: photo: Path `photo` is required. al intentar agregar un usuario a la base de datos
+[2023-03-29T12:43:02.345] [ERROR] error - Se ha produciodo error ReferenceError: con is not defined al intentar agregar un usuario a la base de datos
